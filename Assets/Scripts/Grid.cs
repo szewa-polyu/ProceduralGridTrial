@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
+// https://catlikecoding.com/unity/tutorials/procedural-grid/
 [RequireComponent(typeof(MeshFilter), typeof(MeshRenderer))]
 public class Grid : MonoBehaviour
 {
